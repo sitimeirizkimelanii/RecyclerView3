@@ -270,7 +270,7 @@ public class MainActivity extends AppCompatActivity implements HotelAdapter.IHot
 
     @Override
     public void doFav(int pos) {
-
+        //belum
     }
 
     @Override
